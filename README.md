@@ -51,7 +51,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adinarayana02/adinarayana02/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img  src="https://github.com/aarushiksk/aarushiksk/blob/output/github-contribution-grid-snake-dark.svg"
+    alt="example" />
+</p>
+
 
 ###
 
