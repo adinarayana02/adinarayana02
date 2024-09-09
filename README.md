@@ -52,7 +52,7 @@
 ###
 
 <p align="center">
-  <img  src="https://github.com/adinarayana02/aarushikskadinarayana02/blob/output/github-contribution-grid-snake-dark.svg"
+  <img  src="https://github.com/adinarayana02/adinarayana02/blob/output/github-contribution-grid-snake-dark.svg"
     alt="example" />
 </p>
 
