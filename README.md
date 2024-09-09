@@ -49,12 +49,6 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif?raw=true"  />
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/adinarayana02/adinarayana02/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -78,5 +72,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/adinarayana02/count.svg?"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif?raw=true"  />
 
 ###
