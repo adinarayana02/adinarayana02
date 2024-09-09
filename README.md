@@ -1,6 +1,8 @@
 <h3 align="center">Hi 👋!  I'm Adinarayana <br><br>Aspiring Data Scientist | Passionate about AI, NLP, ML, and Computer Vision| Empowering AI Futures | IT Graduate</h3>
 
 ###
+<img align="right" height="150" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif?raw=true"  />
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -75,6 +77,5 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif?raw=true"  />
 
 ###
